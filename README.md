@@ -27,5 +27,9 @@
 
 # _____________________________________________________________
 ## Video 
-### En el siguiente video podrá ver como se realizó el mantenimiento de la computadora.
+### En el siguiente enlace podrá ver como se realizó el mantenimiento de la computadora.
 - :file_folder:[Video](https://youtu.be/gVUngdaUOdE)
+_______________________________________________________________
+## Pagina Web 
+### En el siguiente enlace se encuentra nuestro sitio web, tendrán acceso a un área de descargas exclusiva donde podrán obtener el manual completo y el tríptico de mantenimiento en formato PDF. Estos recursos están diseñados para ser descargados fácilmente y se convertirán en una guía indispensable para el cuidado de sus preciadas computadoras.
+- :file_folder:[Página Web](https://3942784100101.wixsite.com/my-site-2)
