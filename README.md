@@ -14,17 +14,17 @@
 |                            Tutores                        |
 | Diego	André  	     | Mazariegos Barrientos | 202003975  |
 | Yeinny Melissa     | Catalán de León       | 202004725  |
-# _______________________________________________________________
+# ____________________________________________________________
 ## MANUAL 
 ### En este documento, encontrarás valiosa información y consejos para mantener tu laptop en óptimas condiciones y garantizar su rendimiento y durabilidad a lo largo del tiempo.
 - :file_folder:[Manual](Manual_Informe1_Grupo8.pdf)
     
-# _______________________________________________________________
+# ____________________________________________________________
 ## Trifoliar 
 ### Este práctico trifoliar está diseñado para proporcionarte una visión general y concisa de las mejores prácticas de mantenimiento, permitiéndote cuidar tu dispositivo de manera efectiva y sin complicaciones.
 - :file_folder:[Trifoliar](Trifoliar_Informe1_Grupo8.pdf)
 
-# _______________________________________________________________
+# _____________________________________________________________
 ## Video 
 ### En el siguiente video podrá ver como se realizó el mantenimiento de la computadora.
 - :file_folder:[Video](https://youtu.be/gVUngdaUOdE)
