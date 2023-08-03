@@ -11,7 +11,7 @@
 | José Leonel 	       | López Ajvix           | 202201211  |
 | Franklin Orlando 	   | Noj Pérez             | 202200089  |
 | Carlos Alejandro 	   | Posadas Benitez       | 202100105  |
-| Pablo Andres  	   | Rodriguez Lima        | 2022019947 |
+| Pablo Andres  	   | Rodriguez Lima        | 202201947  |
 |                            Tutores                        |
 | Diego	André  	     | Mazariegos Barrientos | 202003975  |
 | Yeinny Melissa     | Catalán de León       | 202004725  |
