@@ -1,4 +1,4 @@
-# Taller 1 Grupo 5
+# Taller 1 Grupo 8
 ## Manual "Como realizar el mantenimiento de una computadora"
 :paperclip: Taller1:   3 de agosto de 2023
 ![Usac Logo](https://upload.wikimedia.org/wikipedia/commons/4/4a/Usac_logo.png)
@@ -16,17 +16,15 @@
 | Yeinny Melissa     | Catalán de León       | 202004725  |
 # _______________________________________________________________
 ## MANUAL 
-### En el manual encontrará detalladamente los pasos que se siguieron para el mantenimiento preventivo de una laptop, así como las herramientas recomendadas a utilizar y una descripción sobre los diferentes tipos de mantenimiento que existen, también podrá encontrar información acerca de los componentes de una computadora.
-- :file_folder:_Documentos_:
-    +[Manual](Manual_Informe1_Grupo8.pdf)
+### En este documento, encontrarás valiosa información y consejos para mantener tu laptop en óptimas condiciones y garantizar su rendimiento y durabilidad a lo largo del tiempo.
+- :file_folder:[Manual](Manual_Informe1_Grupo8.pdf)
     
 # _______________________________________________________________
 ## Trifoliar 
-### En el trifoliar encontrará información para realizar un mantenimiento preventivo a una computadora de una manera resumida, sin adentrarse en tanto detalle sobre componentes.
-- :file_folder:_Documentos_:
-    +[Trifoliar](Trifoliar_Informe1_Grupo8.pdf)
+### Este práctico trifoliar está diseñado para proporcionarte una visión general y concisa de las mejores prácticas de mantenimiento, permitiéndote cuidar tu dispositivo de manera efectiva y sin complicaciones.
+- :file_folder:[Trifoliar](Trifoliar_Informe1_Grupo8.pdf)
 
 # _______________________________________________________________
 ## Video 
 ### En el siguiente video podrá ver como se realizó el mantenimiento de la computadora.
-(https://youtu.be/gVUngdaUOdE)
+- :file_folder:(https://youtu.be/gVUngdaUOdE)
