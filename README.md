@@ -27,4 +27,4 @@
 # _______________________________________________________________
 ## Video 
 ### En el siguiente video podrá ver como se realizó el mantenimiento de la computadora.
-- :file_folder:(https://youtu.be/gVUngdaUOdE)
+- :file_folder:[Video](https://youtu.be/gVUngdaUOdE)
