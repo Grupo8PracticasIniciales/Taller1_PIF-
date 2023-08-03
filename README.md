@@ -29,4 +29,4 @@
 # _______________________________________________________________
 ## Video 
 ### En el siguiente video podrá ver como se realizó el mantenimiento de la computadora.
-[![Watch the video](https://youtu.be/gVUngdaUOdE)]
+[![Watch the video)](https://img.youtube.com/vi/6L0l2zxln0w/maxresdefault.jpg)](https://youtu.be/gVUngdaUOdE)]
